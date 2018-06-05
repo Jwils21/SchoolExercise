@@ -19,6 +19,10 @@ namespace School {
 			TotalSales = 0;
 		}
 
+		public void MadeASale() {
+
+		}
+
 		public Sales() {
 
 		}
